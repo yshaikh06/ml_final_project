@@ -39,4 +39,4 @@ This project analyzes the market for air fryers using brand-year data aggregated
 ---
 
 ## AI Assistance Disclosure
-AI tools (Claude and ChatGPT) were used for portions of code generation, formatting, and debugging assistance. All markdown and written analysis throughout the notebooks and presentation was authored by us. All code was reviewed, run, and tested by us before submission.
+AI tools (Claude and ChatGPT) were used for portions of code generation, formatting, and debugging assistance. All markdown and written analysis throughout the notebooks and presentation was authored by us. All code was reviewed, run, and tested by us before submission. AI assisted in creating this README.
