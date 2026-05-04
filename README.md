@@ -5,7 +5,7 @@
 ---
 
 ## Group Members
-Mustafa Ali · Thomas · Yusuf
+Mustafa Ali · Thomas Gao · Yusuf Shaikh
 
 ---
 
