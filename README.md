@@ -34,7 +34,7 @@ This project analyzes the market for air fryers using brand-year data aggregated
 | Part 1 — Updates & Improvements | Mustafa |
 | Part 2 — Demand Estimation | Mustafa |
 | Part 3 — Strategy & Pricing Analysis | Mustafa, Thomas|
-| Part 4 — Presentation | Mustafa, Thomas |
+| Part 4 — Presentation | Thomas |
 | Misc - README | Mustafa
 ---
 
