@@ -22,7 +22,7 @@ This project analyzes the market for air fryers using brand-year data aggregated
 | `Part1_DataAnalysis_EDA.ipynb` | Data analyst role: EDA, visualizations, market description |
 | `Part2_DemandEstimation.ipynb` | Data scientist role: logit demand model estimated via linear regression |
 | `Part3_Strategy.ipynb` | Pricing analyst role: inferred unit costs, markups, and share-weighted profit |
-| `Part4_AirFryer_Market_Intelligence.pptx` | Business presentation: market intelligence summary (9 slides) |
+| `AirFryer_Market_Intelligence.pptx` | Business presentation: market intelligence summary (9 slides) |
 
 ---
 
